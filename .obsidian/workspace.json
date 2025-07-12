@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "d343980d2b3b6333",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84de42a95439ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621f6692d33aabff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Flask/Отображение данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отображение данных"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b71e916189d45d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87447ae056be00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4dde450b0928a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e4c1ab88639d0334",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "54e647c94439e1c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "10d1d54bf22d4faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a726e7b3029d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62289bb27b5566ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Python/AI/Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "877b1445413ecb8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Python/AI/Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "f02f5e250fca0aa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "2f5aedddcfdfe514",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Python virtual environments.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Python virtual environments"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "floating": {
+    "id": "490cde5f0e84d99d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6c60cd3255f72a23",
+        "type": "window",
+        "children": [
+          {
+            "id": "b33026b6bf01e68d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81ffafcb669518bd",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Граф"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 32,
+        "width": 960,
+        "height": 1048,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "621f6692d33aabff",
+  "lastOpenFiles": [
+    "Programming/Python/Flask/Работа с базой данных.md",
+    "Programming/Python/Flask/Отображение данных.md",
+    "Programming/Python/Flask/Формы и коммиты.md",
+    "Programming/Python/PyTorch/Базовые функции в PyTorch.md",
+    "Programming/Python/Flask/Шаблоны страниц.md",
+    "Programming/Python/AI/Без названия.md",
+    "Pasted image 20241127110813.png.md",
+    "Programming/Python/PyTorch/Книга.md",
+    "Linux/Python virtual environments.md",
+    "Programming/Базы данных/Терминология.md",
+    "Programming/Базы данных/Основы.md",
+    "Programming/Базы данных/Базы данных.md",
+    "Programming/Python/Flask/Фреймворк Flask.md",
+    "Programming/Python/Flask/Создание маршрутов.md",
+    "Добро пожаловать.md",
+    "создайте ссылку.md",
+    "Pasted image 20250708230301.png",
+    "Pasted image 20250708225125.png",
+    "Pasted image 20250708224600.png",
+    "Programming/Python/Flask",
+    "().md",
+    "ЕГЭ/Планиметрия/Трапеция.md",
+    "Programming/Базы данных",
+    "Pasted image 20250328170753.png",
+    "Pasted image 20250328165438.png",
+    "ЕГЭ/Планиметрия",
+    "ЕГЭ",
+    "test.md",
+    "Pasted image 20241127110813.png",
+    "Pasted image 20241127110339.png",
+    "Pasted image 20241127110402.png",
+    "Pasted image 20241127110654.png",
+    "Pasted image 20241127110741.png",
+    "Programming/Python/PyTorch",
+    "Programming/Python/Без названия.md",
+    "Programming/Python/AI",
+    "Programming/Python",
+    "Без названия.canvas",
+    "Programming",
+    "Linux"
+  ]
+}
