@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Flask/Отображение данных.md",
+                "file": "Programming/Python/Flask/Шаблоны страниц.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отображение данных"
+              "title": "Шаблоны страниц"
             }
           }
         ]
@@ -201,13 +201,17 @@
       }
     ]
   },
-  "active": "621f6692d33aabff",
+  "active": "81ffafcb669518bd",
   "lastOpenFiles": [
-    "Programming/Python/Flask/Работа с базой данных.md",
-    "Programming/Python/Flask/Отображение данных.md",
-    "Programming/Python/Flask/Формы и коммиты.md",
-    "Programming/Python/PyTorch/Базовые функции в PyTorch.md",
     "Programming/Python/Flask/Шаблоны страниц.md",
+    "Programming/Python/Flask/Запросы к базе данных.md",
+    "Programming/Python/Flask/Типы данных в базе.md",
+    "Programming/Python/Flask/Фреймворк Flask.md",
+    "Programming/Python/Flask/Создание маршрутов.md",
+    "Programming/Python/Flask/Формы и коммиты.md",
+    "Programming/Python/Flask/Отображение данных.md",
+    "Programming/Python/Flask/Работа с базой данных.md",
+    "Programming/Python/PyTorch/Базовые функции в PyTorch.md",
     "Programming/Python/AI/Без названия.md",
     "Pasted image 20241127110813.png.md",
     "Programming/Python/PyTorch/Книга.md",
@@ -215,8 +219,6 @@
     "Programming/Базы данных/Терминология.md",
     "Programming/Базы данных/Основы.md",
     "Programming/Базы данных/Базы данных.md",
-    "Programming/Python/Flask/Фреймворк Flask.md",
-    "Programming/Python/Flask/Создание маршрутов.md",
     "Добро пожаловать.md",
     "создайте ссылку.md",
     "Pasted image 20250708230301.png",
