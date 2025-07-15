@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Flask/Шаблоны страниц.md",
+                "file": "Programming/Python/Flask/Публикация на сервер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблоны страниц"
+              "title": "Публикация на сервер"
             }
           }
         ]
@@ -166,51 +166,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "floating": {
-    "id": "490cde5f0e84d99d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6c60cd3255f72a23",
-        "type": "window",
-        "children": [
-          {
-            "id": "b33026b6bf01e68d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "81ffafcb669518bd",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Граф"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 32,
-        "width": 960,
-        "height": 1048,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "81ffafcb669518bd",
+  "active": "621f6692d33aabff",
   "lastOpenFiles": [
+    "Programming/Python/Flask/Фреймворк Flask.md",
+    "Programming/Python/Flask/Публикация на сервер.md",
+    "Programming/Python/Flask/Работа с базой данных.md",
+    "Programming/Python/Flask/Создание маршрутов.md",
     "Programming/Python/Flask/Шаблоны страниц.md",
+    "Programming/Python/Flask/Методы классов в jinja2.md",
     "Programming/Python/Flask/Запросы к базе данных.md",
     "Programming/Python/Flask/Типы данных в базе.md",
-    "Programming/Python/Flask/Фреймворк Flask.md",
-    "Programming/Python/Flask/Создание маршрутов.md",
     "Programming/Python/Flask/Формы и коммиты.md",
     "Programming/Python/Flask/Отображение данных.md",
-    "Programming/Python/Flask/Работа с базой данных.md",
     "Programming/Python/PyTorch/Базовые функции в PyTorch.md",
     "Programming/Python/AI/Без названия.md",
     "Pasted image 20241127110813.png.md",
