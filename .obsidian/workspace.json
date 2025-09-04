@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Math/Дискретная математика/Множества и операции над множествами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Множества и операции над множествами"
             }
           }
         ],
@@ -180,8 +180,12 @@
   },
   "active": "312083406f5eac5a",
   "lastOpenFiles": [
+    "Linux/Python virtual environments.md",
     "Linux/SSH.md",
     "Linux/Unix-like systems.md",
+    "Math/Дискретная математика/Множества и операции над множествами.md",
+    "Math/Дискретная математика",
+    "Math",
     "Programming/Python/Flask/Шаблоны страниц.md",
     "Programming/Python/Flask/Публикация на сервер.md",
     "Programming/Python/Flask/Типы данных в базе.md",
@@ -196,7 +200,6 @@
     "Programming/Python/AI/Без названия.md",
     "Pasted image 20241127110813.png.md",
     "Programming/Python/PyTorch/Книга.md",
-    "Linux/Python virtual environments.md",
     "Programming/Базы данных/Терминология.md",
     "Programming/Базы данных/Основы.md",
     "Programming/Базы данных/Базы данных.md",
@@ -213,18 +216,15 @@
     "Pasted image 20250328165438.png",
     "ЕГЭ/Планиметрия",
     "ЕГЭ",
-    "test.md",
     "Pasted image 20241127110813.png",
     "Pasted image 20241127110339.png",
     "Pasted image 20241127110402.png",
     "Pasted image 20241127110654.png",
     "Pasted image 20241127110741.png",
     "Programming/Python/PyTorch",
-    "Programming/Python/Без названия.md",
     "Programming/Python/AI",
     "Programming/Python",
     "Без названия.canvas",
-    "Programming",
-    "Linux"
+    "Programming"
   ]
 }
