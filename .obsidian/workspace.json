@@ -11,10 +11,14 @@
             "id": "312083406f5eac5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Git/Команды git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Команды git"
             }
           }
         ]
@@ -154,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -165,8 +170,9 @@
   },
   "active": "312083406f5eac5a",
   "lastOpenFiles": [
-    "Programming/Git/Команды git.md",
     "Programming/Git/Version control.md",
+    "Math/Дискретная математика/Множества и операции над множествами.md",
+    "Programming/Git/Команды git.md",
     "Programming/Алгосы/Без названия.md",
     "Programming/Python/Flask/Шаблоны страниц.md",
     "Programming/Python/Flask/Создание маршрутов.md",
@@ -175,7 +181,6 @@
     "Programming/Python/Flask/Работа с базой данных.md",
     "Programming/Python/Flask/Методы классов в jinja2.md",
     "Programming/Python/Flask/Запросы к базе данных.md",
-    "Math/Дискретная математика/Множества и операции над множествами.md",
     "Programming/Алгосы",
     "Programming/Git",
     "Linux/Python virtual environments.md",
